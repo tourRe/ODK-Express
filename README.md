@@ -7,5 +7,6 @@ To get started:
 2. Copy the file to a dedicated folder (for instance, create a ODK express folder on your computer)
 3. Copy your latest ODK survey ".xlsx" export to this same folder
 4. Open ODK express.xlsm
-5. Start by reseting the file (top-right button)
-6. Enjoy!
+5. Click ‘Enable content’ to enable the file’s macros
+6. Start by reseting the file (top-right button)
+7. Enjoy!
